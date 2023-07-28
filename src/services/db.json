@@ -1,0 +1,19 @@
+{
+    "moneda": [
+        {
+        "pais": "Argentina",
+        "moneda": "Peso Argentino",
+        "id": "001"
+        },
+        {
+        "pais": "Brasil",
+        "moneda": "Real",
+        "id": "002"
+        },
+        {
+        "pais": "Colombia",
+        "moneda": "Peso Argentino",
+        "id": "003"
+        }
+    ]
+}
